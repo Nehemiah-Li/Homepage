@@ -3,7 +3,7 @@
 <p> Tianjin University, Tianjin, China </p>
 <p> email : nehemiah@tju.edu.cn </p>
 
-<p> Publications  </p>
+# Publications 
 <p> Journal Papers </p>
 
 <p> 2018 </p>
